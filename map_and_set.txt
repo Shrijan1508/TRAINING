@@ -1,0 +1,6 @@
+*Map and set both are collectio of keys but map has values associated with key
+*A set is a non-sequenced (no indexes) collection of distinct objects (no duplicates). 
+*The presence or not of an object is important.
+*A map is a collection of key-value pairs. 
+*Each ordered pair contains a key and a value.
+
