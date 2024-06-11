@@ -53,7 +53,7 @@ int main () {
     push(5000.0f);
     push(3500.0f);
     push(2500.0f);
-    push(1500.0f);//!!!
+    push(1500.0f);//!!
 
     printf("%.2f ", top()); pop();
     printf("%.2f ", top()); pop();
