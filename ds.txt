@@ -24,4 +24,5 @@ salaries(input)
 5000
 3500
 
-stack
+stack       :       2000    3000    5000    3500
+top_index   :-1     0       1       2       3
